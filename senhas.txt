@@ -1,0 +1,10 @@
+msfadmin
+admin
+123456
+password
+toor
+root
+senha123
+letmein
+qwerty
+12345678

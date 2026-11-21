@@ -1,0 +1,10 @@
+msfadmin
+admin
+administrator
+root
+user
+service
+guest
+postgres
+ftp
+test
